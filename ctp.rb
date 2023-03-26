@@ -1,8 +1,8 @@
 class Ctp < Formula
     desc "[CPT] Code to Prompt - A tool to generate a prompt from codes"
     homepage "https://github.com/alesr/codetoprompt"
-    url "https://github.com/alesr/codetoprompt/archive/refs/tags/v1.0.0.tar.gz"
-    sha256 "b974a10de075e9e9c950a6ed3d541704136bed5b4d42396cfb6c095907a1614f"
+    url "https://github.com/alesr/codetoprompt/archive/refs/tags/v1.1.0.tar.gz"
+    sha256 "a56489f6d56013b55106c6cefa2a2b0d688b664825b9af753d553d9e757d1a78"
     license "MIT"
     head "https://github.com/alesr/codetoprompt.git", branch: "master"
   
